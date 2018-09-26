@@ -1,0 +1,56 @@
+body {
+	background-color: #2e2c32;
+}
+
+.main-container {
+	width: 50%;
+    margin: auto;
+}
+
+.formS {
+	background-color: #2e2c32;
+	width: 50%;
+    margin: auto;
+}
+
+h1 {
+	font-family: candal;
+	color: white;
+	text-align: center;
+}
+
+h2 {
+    font-family: Montserrat;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+
+button {
+    margin: 10px auto;
+    background-color: #33bbff;
+    font-family: candal;
+    font-weight: bold;
+    text-align: center;
+    font-size: 100%;
+    display: inline-block;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    width: 50%;
+    display: block;
+}
+
+.form-input {
+    text-align: center;
+    font-size: 100%;
+    width: 100%;
+    font-family: open sans;
+    font-style: normal;
+}
+
+#zodiacImage
+ {
+	width: 100%;
+    
+}
